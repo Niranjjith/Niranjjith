@@ -1,4 +1,6 @@
-
+<!-- ========================= -->
+     PROFILE HEADER
+========================= -->
 
 <div align="center">
 
@@ -21,8 +23,6 @@
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Niranjjith&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -142,7 +142,8 @@ practical **software engineering skills**, and exploring **cybersecurity and AI-
 
 ---
 
-# 🚀 Project Dock
+<details>
+<summary><h2>🚀 Project Dock</h2></summary>
 
 <div align="center">
 
@@ -319,6 +320,8 @@ Better Decisions
 </div>
 
 ---
+
+</details>
 
 # 🧩 Repository Lab
 
