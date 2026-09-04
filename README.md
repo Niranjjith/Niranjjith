@@ -484,41 +484,6 @@ DATA INSIGHTS
 
 ---
 
-## `08 / SKILL MAP`
-
-```mermaid
-flowchart LR
-    A[COMPUTER SCIENCE] --> B[DSA]
-    A --> C[DBMS]
-    A --> D[OS]
-    A --> E[NETWORKS]
-
-    F[SOFTWARE] --> G[Python]
-    F --> H[C++]
-    F --> I[JavaScript]
-    F --> J[React]
-    F --> K[Node.js]
-    F --> L[Flutter]
-
-    M[CYBERSECURITY] --> N[Security Fundamentals]
-    M --> O[Malware Analysis]
-    M --> P[Defensive Security]
-    M --> Q[Networking]
-
-    R[AI / DATA] --> S[Machine Learning]
-    R --> T[Data Analysis]
-    R --> U[Computer Vision]
-    R --> V[Real-Time Data]
-
-    W[EXPERIENCE] --> X[Whisper Application]
-    W --> Y[Real-Time Systems]
-    W --> Z[Technical Projects]
-```
-
----
-
----
-
 <div align="center">
 
 `BUILD SOMETHING USEFUL.`
@@ -528,3 +493,16 @@ flowchart LR
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:00FF88&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+
+---
+
+## `08 / SKILL GRAPH`
+
+<div align="center">
+
+<img src="./skills.svg" width="900" alt="Animated skill focus graph"/>
+
+</div>
+
+---
+
