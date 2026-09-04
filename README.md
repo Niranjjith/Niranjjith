@@ -139,44 +139,94 @@ practical **software engineering skills**, and exploring **cybersecurity and AI-
 
 ---
 
-<details>
-<summary><h2>🚀 Project Dock</h2></summary>
+## 🚀 Project Dock
 
-Click a project below to expand its details.
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🌿</td>
+<td><strong>Smart Wayanad</strong><br/><sub>Civic-Tech Platform</sub></td>
+<td><a href="#smart-wayanad">Explore →</a></td>
+</tr>
+<tr>
+<td align="center">🛡️</td>
+<td><strong>ML-Assisted Malware Triage System</strong><br/><sub>Cybersecurity / ML</sub></td>
+<td><a href="#ml-assisted-malware-triage-system">Explore →</a></td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td><strong>Nexs-Hub</strong><br/><sub>Student Startup Ecosystem</sub></td>
+<td><a href="#nexs-hub">Explore →</a></td>
+</tr>
+<tr>
+<td align="center">🎓</td>
+<td><strong>Student Performance Coach</strong><br/><sub>Data / Education</sub></td>
+<td><a href="#student-performance-coach">Explore →</a></td>
+</tr>
+</table>
+
+</div>
 
 <details>
 <summary>🌿 <strong>Smart Wayanad</strong> — Civic-Tech Platform</summary>
-
-### 🌿 Smart Wayanad
+<a name="smart-wayanad"></a>
 
 A digital platform designed around practical district services, emergency support and location-aware civic information.
 
-**What it does**
-- 🚨 Emergency and SOS support
-- 🏥 Healthcare and essential-service information
-- 🚌 Transportation and route information
-- 🌦️ Disaster-readiness information
-- 📍 Location-aware services
-- 📊 Administration dashboard
-- 🔄 Real-time updates
+**Highlights:** 🚨 Emergency support · 🏥 Healthcare · 🚌 Transport · 🌦️ Disaster readiness · 📍 Location services · 📊 Admin dashboard · 🔄 Real-time updates
 
-**Tech Stack**
-
-`Flutter` `Dart` `React` `Node.js` `Express` `MongoDB` `Socket.IO`
-
-**Architecture**
-
-```text
-Flutter Mobile App
-        ↓
-   Node.js API
-        ↓
- MongoDB Database
-        ↓
- React Admin Dashboard
-```
+**Tech:** `Flutter` `Dart` `React` `Node.js` `Express` `MongoDB` `Socket.IO`
 
 <a href="https://github.com/Niranjjith/Smart-Wayanad">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</details>
+
+<details>
+<summary>🛡️ <strong>ML-Assisted Malware Triage System</strong> — Cybersecurity / ML</summary>
+<a name="ml-assisted-malware-triage-system"></a>
+
+A defensive security project exploring machine-assisted analysis to help prioritize suspicious files during initial malware triage.
+
+**Focus:** 🔍 File triage · 🤖 ML analysis · 🧪 Automated analysis · 📊 Classification · 🔐 Defensive security research
+
+**Tech:** `Python` `Machine Learning` `Cybersecurity` `Malware Analysis`
+
+<a href="https://github.com/Niranjjith/ML-Assisted-Malware-Triage-System">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</details>
+
+<details>
+<summary>🚀 <strong>Nexs-Hub</strong> — Student Startup Ecosystem</summary>
+<a name="nexs-hub"></a>
+
+A student-focused ecosystem for turning ideas into collaborative projects and moving them toward execution.
+
+**Focus:** 💡 Ideas · 🤝 Collaboration · 🚀 Execution · 🌐 Web platform · 📈 Product building
+
+**Tech:** `JavaScript` `Web Development`
+
+<a href="https://github.com/Niranjjith/Nexs-Hub">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</details>
+
+<details>
+<summary>🎓 <strong>Student Performance Coach</strong> — Data / Education</summary>
+<a name="student-performance-coach"></a>
+
+A Python-based project focused on analysing student performance, tracking progress and generating useful insights.
+
+**Focus:** 📊 Performance analysis · 🎯 Progress tracking · 📈 Data insights · 🧠 Learning support
+
+**Tech:** `Python` `Data Analysis` `Student Analytics`
+
+<a href="https://github.com/Niranjjith/Student-Performance-Coach">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
