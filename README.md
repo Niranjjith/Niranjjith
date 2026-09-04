@@ -1,6 +1,3 @@
-<!-- ========================= -->
-     PROFILE HEADER
-========================= -->
 
 <div align="center">
 
@@ -145,67 +142,67 @@ practical **software engineering skills**, and exploring **cybersecurity and AI-
 <details>
 <summary><h2>🚀 Project Dock</h2></summary>
 
-<div align="center">
+Click a project below to expand its details.
 
-> **Four projects. Four different problems. One goal — build things that work.**
+<details>
+<summary>🌿 <strong>Smart Wayanad</strong> — Civic-Tech Platform</summary>
 
-</div>
+### 🌿 Smart Wayanad
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A digital platform designed around practical district services, emergency support and location-aware civic information.
 
-<div align="center">
+**What it does**
+- 🚨 Emergency and SOS support
+- 🏥 Healthcare and essential-service information
+- 🚌 Transportation and route information
+- 🌦️ Disaster-readiness information
+- 📍 Location-aware services
+- 📊 Administration dashboard
+- 🔄 Real-time updates
 
-### 🌿 SMART WAYANAD
-
-<img src="https://img.shields.io/badge/CIVIC--TECH-00F0FF?style=flat-square&logo=flutter&logoColor=black"/>
-<img src="https://img.shields.io/badge/STATUS-College%20Project-111827?style=flat-square"/>
-
-</div>
-
-**Mission**
-
-A digital platform designed around practical district services,
-emergency support and location-aware civic information.
-
-```text
-Mobile App
-    ↓
-Flutter / Dart
-    ↓
-Node.js + Express
-    ↓
-MongoDB
-    ↓
-Admin Dashboard
-```
+**Tech Stack**
 
 `Flutter` `Dart` `React` `Node.js` `Express` `MongoDB` `Socket.IO`
 
-<div align="center">
+**Architecture**
+
+```text
+Flutter Mobile App
+        ↓
+   Node.js API
+        ↓
+ MongoDB Database
+        ↓
+ React Admin Dashboard
+```
+
 <a href="https://github.com/Niranjjith/Smart-Wayanad">
-<img src="https://img.shields.io/badge/OPEN%20SYSTEM-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-</div>
 
-</td>
+</details>
 
-<td width="50%" valign="top">
+<br>
 
-<div align="center">
+<details>
+<summary>🛡️ <strong>ML-Assisted Malware Triage System</strong> — Cybersecurity / ML</summary>
 
-### 🛡️ ML-ASSISTED MALWARE TRIAGE
+### 🛡️ ML-Assisted Malware Triage System
 
-<img src="https://img.shields.io/badge/SECURITY-7C3AED?style=flat-square&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/STATUS-Research%20Project-111827?style=flat-square"/>
+A defensive security project exploring machine-assisted analysis to help prioritize suspicious files during an initial malware-triage workflow.
 
-</div>
+**What it focuses on**
+- 🔍 Suspicious-file triage
+- 🤖 Machine-learning-assisted analysis
+- 🧪 Automated analysis workflows
+- 📊 Feature-based classification
+- 🔐 Defensive cybersecurity research
 
-**Mission**
+**Tech Stack**
 
-A defensive security project exploring machine-assisted analysis
-to help prioritize suspicious files during initial malware triage.
+`Python` `Machine Learning` `Cybersecurity` `Malware Analysis`
+
+**Workflow**
 
 ```text
 Suspicious File
@@ -219,107 +216,91 @@ Triage / Classification
 Analyst Review
 ```
 
-`Python` `Machine Learning` `Cybersecurity` `Malware Analysis`
-
-<div align="center">
 <a href="https://github.com/Niranjjith/ML-Assisted-Malware-Triage-System">
-<img src="https://img.shields.io/badge/OPEN%20SYSTEM-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</div>
 
-</td>
-</tr>
+</details>
 
-<tr>
-<td width="50%" valign="top">
+<br>
 
-<div align="center">
+<details>
+<summary>🚀 <strong>Nexs-Hub</strong> — Student Startup Ecosystem</summary>
 
-### 🚀 NEXS-HUB
+### 🚀 Nexs-Hub
 
-<img src="https://img.shields.io/badge/STARTUP--ECOSYSTEM-00FF88?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/STATUS-Platform%20Concept-111827?style=flat-square"/>
+A student-focused ecosystem built around turning ideas into collaborative projects and moving them toward execution.
 
-</div>
+**What it focuses on**
+- 💡 Student idea development
+- 🤝 Collaboration
+- 🚀 Startup and project execution
+- 🌐 Web platform development
+- 📈 Turning ideas into working products
 
-**Mission**
+**Tech Stack**
 
-A student-focused ecosystem built around turning ideas into
-collaborative projects and moving them toward execution.
+`JavaScript` `Web Development`
+
+**Concept**
 
 ```text
 Student Idea
      ↓
-Discover
+  Discover
      ↓
-Collaborate
+ Collaborate
      ↓
-Build
+    Build
      ↓
-Launch
+   Launch
 ```
 
-`JavaScript` `Web Development`
-
-<div align="center">
 <a href="https://github.com/Niranjjith/Nexs-Hub">
-<img src="https://img.shields.io/badge/OPEN%20SYSTEM-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-</div>
 
-</td>
+</details>
 
-<td width="50%" valign="top">
+<br>
 
-<div align="center">
+<details>
+<summary>🎓 <strong>Student Performance Coach</strong> — Data / Education</summary>
 
-### 🎓 STUDENT PERFORMANCE COACH
+### 🎓 Student Performance Coach
 
-<img src="https://img.shields.io/badge/EDTECH-00F0FF?style=flat-square&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/STATUS-Python%20Project-111827?style=flat-square"/>
+A Python-based project focused on analysing student performance, tracking progress and generating useful insights.
 
-</div>
+**What it focuses on**
+- 📊 Student performance analysis
+- 🎯 Progress tracking
+- 📈 Data-driven insights
+- 🧠 Learning support
+- 🐍 Python-based development
 
-**Mission**
+**Tech Stack**
 
-A data-driven student support project focused on understanding
-performance, tracking progress and generating useful insights.
+`Python` `Data Analysis` `Student Analytics`
+
+**Workflow**
 
 ```text
 Student Data
      ↓
-Analysis
+   Analysis
      ↓
 Performance Signals
      ↓
 Progress Tracking
      ↓
-Better Decisions
+ Better Decisions
 ```
 
-`Python` `Data Analysis` `Student Analytics`
-
-<div align="center">
 <a href="https://github.com/Niranjjith/Student-Performance-Coach">
-<img src="https://img.shields.io/badge/OPEN%20SYSTEM-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<br/>
-
-<a href="https://github.com/Niranjjith?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20THE%20FULL%20LAB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-</div>
-
----
+</details>
 
 </details>
 
