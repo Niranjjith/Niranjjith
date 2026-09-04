@@ -496,13 +496,107 @@ DATA INSIGHTS
 
 ---
 
-## `08 / SKILL GRAPH`
+## `08 / CONNECT`
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### 🤝 LET'S BUILD SOMETHING
+
+<p align="justify">
+
+I am interested in <b>software development, cybersecurity, AI/ML, data-driven systems and practical technology projects</b>.
+
+If you are working on something interesting, have a project idea, or want to discuss technology, feel free to connect.
+
+</p>
+
+### OPEN TO
+
+`Technical Collaborations`  
+`Software Projects`  
+`Cybersecurity Projects`  
+`AI / ML Projects`  
+`Research & Learning`  
+`Internship Opportunities`
+
+<br/>
+
+<a href="https://github.com/Niranjjith">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/niranjan-a-r-674799281/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://arjith.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="40%" valign="top">
+
+### ⚡ WHAT I BRING
+
+```text
+CURIOUS
+   ↓
+LEARN
+   ↓
+BUILD
+   ↓
+TEST
+   ↓
+DEBUG
+   ↓
+IMPROVE
+```
+
+### 🧩 INTERESTS
+
+`Computer Science`
+
+`Software Engineering`
+
+`Cybersecurity`
+
+`AI / ML`
+
+`Real-Time Systems`
+
+`Data Visualization`
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-<img src="./skills.svg" width="900" alt="Animated skill focus graph"/>
+### `BUILD • LEARN • BREAK • IMPROVE`
+
+<br/>
+
+<a href="https://github.com/Niranjjith?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-00F0FF?style=for-the-badge&logo=github&logoColor=111827"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Building+useful+systems.;Learning+through+real+projects.;Understanding+before+implementing.;Always+improving." alt="Connect animation"/>
+
+<br/><br/>
+
+`BUILD SOMETHING USEFUL.`
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:00FF88&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-
----
-
