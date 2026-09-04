@@ -90,148 +90,246 @@ practical **software engineering skills**, and exploring **cybersecurity and AI-
 
 ---
 
-# 📊 GitHub Analytics
+# 🛰️ Tech Radar
 
 <div align="center">
 
-<a href="https://github.com/Niranjjith">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Niranjjith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/Niranjjith">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjjith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Niranjjith">
-  <img src="https://streak-stats.demolab.com?user=Niranjjith&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=7C3AED&currStreakLabel=00F0FF" alt="GitHub streak"/>
-</a>
-
-</div>
-
-> **Note:** The language chart reflects repository code distribution, not a claim of proficiency.
-
----
-
-# 🚀 Featured Projects
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-## 🌿 Smart Wayanad
+### 🔨 BUILDING
 
-**Citizen-focused digital platform for district services and safety.**
+<img src="https://img.shields.io/badge/PROJECTS-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
 
-A full-stack civic-tech platform combining a Flutter mobile application,
-React administration dashboard and Node.js backend.
+**Real-world software**
 
-**Highlights**
-- 🚨 Emergency SOS workflow
-- 🚌 Bus route information
-- 🏥 Healthcare directory
-- 🌦️ Disaster-readiness advisories
-- 🧭 Guided civic assistant
-- 📍 Location-based services
-- 📶 Offline-cached core data
-- 📊 Admin operations dashboard
-- 🔄 Real-time Socket.IO updates
-
-**Stack:** `Flutter` `Dart` `React` `Node.js` `Express` `MongoDB` `Socket.IO`
-
-<a href="https://github.com/Niranjjith/Smart-Wayanad">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="View Smart Wayanad"/>
-</a>
+`Flutter` `React` `Node.js` `Python`
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-## 🛡️ ML-Assisted Malware Triage System
+### 🧠 LEARNING
 
-**Security-oriented project exploring machine-assisted malware triage.**
+<img src="https://img.shields.io/badge/CS%20CORE-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
 
-Designed around the idea of using automated analysis to help prioritize
-and inspect suspicious files during an initial malware-analysis workflow.
+**Strong fundamentals**
 
-**Focus**
-- 🔍 Malware triage
-- 🤖 Machine learning
-- 🧪 Automated analysis
-- 📊 Feature-based classification
-- 🔐 Defensive security research
-
-**Stack:** `Python` `Machine Learning` `Cybersecurity`
-
-<a href="https://github.com/Niranjjith/ML-Assisted-Malware-Triage-System">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Malware Triage System"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🚀 Nexs-Hub
-
-**A startup ecosystem built around student innovation and execution.**
-
-A platform concept designed to help students turn ideas into projects,
-collaborate with others and build an execution-focused ecosystem.
-
-**Focus**
-- 💡 Idea development
-- 🤝 Collaboration
-- 🚀 Student entrepreneurship
-- 🌐 Web platform development
-- 📈 Project execution
-
-**Stack:** `JavaScript` `Web Development`
-
-<a href="https://github.com/Niranjjith/Nexs-Hub">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="View Nexs Hub"/>
-</a>
+`DSA` `DBMS` `Networks` `OS`
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-## 🎓 Student Performance Coach
+### 🧪 EXPLORING
 
-**A project focused on helping students understand and improve performance.**
+<img src="https://img.shields.io/badge/RESEARCH-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 
-The project explores how software and data-driven approaches can support
-student monitoring, analysis and improvement.
+**Emerging systems**
 
-**Focus**
-- 📊 Student performance analysis
-- 🎯 Progress tracking
-- 📈 Data-driven insights
-- 🧠 Learning support
-- 🐍 Python-based development
-
-**Stack:** `Python`
-
-<a href="https://github.com/Niranjjith/Student-Performance-Coach">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="View Student Performance Coach"/>
-</a>
+`Cybersecurity` `AI/ML` `Malware Analysis`
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=Curiosity+%E2%86%92+Experiments+%E2%86%92+Systems;Theory+is+useful.+Working+software+is+better.;One+project+at+a+time." alt="Tech radar animation"/>
+
+</div>
+
 ---
 
-# 🧩 Other Projects
-
-Explore all repositories and experiments:
+# 🚀 Project Dock
 
 <div align="center">
 
+> **Four projects. Four different problems. One goal — build things that work.**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🌿 SMART WAYANAD
+
+<img src="https://img.shields.io/badge/CIVIC--TECH-00F0FF?style=flat-square&logo=flutter&logoColor=black"/>
+<img src="https://img.shields.io/badge/STATUS-College%20Project-111827?style=flat-square"/>
+
+</div>
+
+**Mission**
+
+A digital platform designed around practical district services,
+emergency support and location-aware civic information.
+
+```text
+Mobile App
+    ↓
+Flutter / Dart
+    ↓
+Node.js + Express
+    ↓
+MongoDB
+    ↓
+Admin Dashboard
+```
+
+`Flutter` `Dart` `React` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+<div align="center">
+<a href="https://github.com/Niranjjith/Smart-Wayanad">
+<img src="https://img.shields.io/badge/OPEN%20SYSTEM-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🛡️ ML-ASSISTED MALWARE TRIAGE
+
+<img src="https://img.shields.io/badge/SECURITY-7C3AED?style=flat-square&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-Research%20Project-111827?style=flat-square"/>
+
+</div>
+
+**Mission**
+
+A defensive security project exploring machine-assisted analysis
+to help prioritize suspicious files during initial malware triage.
+
+```text
+Suspicious File
+      ↓
+Feature Extraction
+      ↓
+ML Analysis
+      ↓
+Triage / Classification
+      ↓
+Analyst Review
+```
+
+`Python` `Machine Learning` `Cybersecurity` `Malware Analysis`
+
+<div align="center">
+<a href="https://github.com/Niranjjith/ML-Assisted-Malware-Triage-System">
+<img src="https://img.shields.io/badge/OPEN%20SYSTEM-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🚀 NEXS-HUB
+
+<img src="https://img.shields.io/badge/STARTUP--ECOSYSTEM-00FF88?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/STATUS-Platform%20Concept-111827?style=flat-square"/>
+
+</div>
+
+**Mission**
+
+A student-focused ecosystem built around turning ideas into
+collaborative projects and moving them toward execution.
+
+```text
+Student Idea
+     ↓
+Discover
+     ↓
+Collaborate
+     ↓
+Build
+     ↓
+Launch
+```
+
+`JavaScript` `Web Development`
+
+<div align="center">
+<a href="https://github.com/Niranjjith/Nexs-Hub">
+<img src="https://img.shields.io/badge/OPEN%20SYSTEM-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🎓 STUDENT PERFORMANCE COACH
+
+<img src="https://img.shields.io/badge/EDTECH-00F0FF?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/STATUS-Python%20Project-111827?style=flat-square"/>
+
+</div>
+
+**Mission**
+
+A data-driven student support project focused on understanding
+performance, tracking progress and generating useful insights.
+
+```text
+Student Data
+     ↓
+Analysis
+     ↓
+Performance Signals
+     ↓
+Progress Tracking
+     ↓
+Better Decisions
+```
+
+`Python` `Data Analysis` `Student Analytics`
+
+<div align="center">
+<a href="https://github.com/Niranjjith/Student-Performance-Coach">
+<img src="https://img.shields.io/badge/OPEN%20SYSTEM-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
 <a href="https://github.com/Niranjjith?tab=repositories">
-  <img src="https://img.shields.io/badge/ALL%20REPOSITORIES-View%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE%20THE%20FULL%20LAB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🧩 Repository Lab
+
+<div align="center">
+
+**Experiments • Coursework • Prototypes • Builds**
+
+<br/>
+
+<a href="https://github.com/Niranjjith?tab=repositories">
+<img src="https://img.shields.io/badge/ENTER%20THE%20REPOSITORY%20LAB-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
