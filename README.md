@@ -482,19 +482,7 @@ DATA INSIGHTS
 </tr>
 </table>
 
----
 
-<div align="center">
-
-`BUILD SOMETHING USEFUL.`
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:00FF88&height=120&section=footer&animation=twinkling" width="100%"/>
-
-</div>
-
----
 
 ## `08 / CONNECT`
 
@@ -589,14 +577,5 @@ IMPROVE
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Building+useful+systems.;Learning+through+real+projects.;Understanding+before+implementing.;Always+improving." alt="Connect animation"/>
-
-<br/><br/>
-
-`BUILD SOMETHING USEFUL.`
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:00FF88&height=120&section=footer&animation=twinkling" width="100%"/>
-
 </div>
