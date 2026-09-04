@@ -1,3 +1,6 @@
+<!-- ========================= -->
+     PROFILE HEADER
+========================= -->
 
 <div align="center">
 
@@ -143,116 +146,81 @@ practical **software engineering skills**, and exploring **cybersecurity and AI-
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">🌿</td>
-<td><strong>Smart Wayanad</strong><br/><sub>Civic-Tech Platform</sub></td>
-<td><a href="#smart-wayanad">Explore →</a></td>
-</tr>
-<tr>
-<td align="center">🛡️</td>
-<td><strong>ML-Assisted Malware Triage System</strong><br/><sub>Cybersecurity / ML</sub></td>
-<td><a href="#ml-assisted-malware-triage-system">Explore →</a></td>
-</tr>
-<tr>
-<td align="center">🚀</td>
-<td><strong>Nexs-Hub</strong><br/><sub>Student Startup Ecosystem</sub></td>
-<td><a href="#nexs-hub">Explore →</a></td>
-</tr>
-<tr>
-<td align="center">🎓</td>
-<td><strong>Student Performance Coach</strong><br/><sub>Data / Education</sub></td>
-<td><a href="#student-performance-coach">Explore →</a></td>
-</tr>
-</table>
+### `SELECT A PROJECT TO EXPLORE`
+
+<sub>Projects built across civic technology, cybersecurity, web platforms and data-driven applications.</sub>
 
 </div>
 
-<details>
-<summary>🌿 <strong>Smart Wayanad</strong> — Civic-Tech Platform</summary>
-<a name="smart-wayanad"></a>
-
-A digital platform designed around practical district services, emergency support and location-aware civic information.
-
-**Highlights:** 🚨 Emergency support · 🏥 Healthcare · 🚌 Transport · 🌦️ Disaster readiness · 📍 Location services · 📊 Admin dashboard · 🔄 Real-time updates
-
-**Tech:** `Flutter` `Dart` `React` `Node.js` `Express` `MongoDB` `Socket.IO`
-
-<a href="https://github.com/Niranjjith/Smart-Wayanad">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</details>
-
-<details>
-<summary>🛡️ <strong>ML-Assisted Malware Triage System</strong> — Cybersecurity / ML</summary>
-<a name="ml-assisted-malware-triage-system"></a>
-
-A defensive security project exploring machine-assisted analysis to help prioritize suspicious files during initial malware triage.
-
-**Focus:** 🔍 File triage · 🤖 ML analysis · 🧪 Automated analysis · 📊 Classification · 🔐 Defensive security research
-
-**Tech:** `Python` `Machine Learning` `Cybersecurity` `Malware Analysis`
-
-<a href="https://github.com/Niranjjith/ML-Assisted-Malware-Triage-System">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
-<details>
-<summary>🚀 <strong>Nexs-Hub</strong> — Student Startup Ecosystem</summary>
-<a name="nexs-hub"></a>
-
-A student-focused ecosystem for turning ideas into collaborative projects and moving them toward execution.
-
-**Focus:** 💡 Ideas · 🤝 Collaboration · 🚀 Execution · 🌐 Web platform · 📈 Product building
-
-**Tech:** `JavaScript` `Web Development`
-
-<a href="https://github.com/Niranjjith/Nexs-Hub">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</details>
-
-<details>
-<summary>🎓 <strong>Student Performance Coach</strong> — Data / Education</summary>
-<a name="student-performance-coach"></a>
-
-A Python-based project focused on analysing student performance, tracking progress and generating useful insights.
-
-**Focus:** 📊 Performance analysis · 🎯 Progress tracking · 📈 Data insights · 🧠 Learning support
-
-**Tech:** `Python` `Data Analysis` `Student Analytics`
-
-<a href="https://github.com/Niranjjith/Student-Performance-Coach">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</details>
-
 <br>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 <details>
-<summary>🛡️ <strong>ML-Assisted Malware Triage System</strong> — Cybersecurity / ML</summary>
+<summary>🌿 <strong>SMART WAYANAD</strong> · <code>CIVIC • MOBILE • FULL STACK</code></summary>
 
-### 🛡️ ML-Assisted Malware Triage System
+<div align="center">
 
-A defensive security project exploring machine-assisted analysis to help prioritize suspicious files during an initial malware-triage workflow.
+### 🌿 Smart Wayanad
 
-**What it focuses on**
-- 🔍 Suspicious-file triage
-- 🤖 Machine-learning-assisted analysis
-- 🧪 Automated analysis workflows
-- 📊 Feature-based classification
-- 🔐 Defensive cybersecurity research
+**A digital civic platform for Wayanad**
 
-**Tech Stack**
+`Flutter` `React` `Node.js` `MongoDB` `Socket.IO`
 
-`Python` `Machine Learning` `Cybersecurity` `Malware Analysis`
+</div>
 
-**Workflow**
+**The idea**
+
+Bring essential district services, emergency support and civic information into one connected platform.
+
+**Core features**
+
+`SOS` · `Healthcare` · `Transport` · `Disaster Readiness` · `Location Services` · `Admin Dashboard` · `Real-time Updates`
+
+**System**
+
+```text
+Flutter App → Node / Express API → MongoDB
+                         ↕
+                  React Dashboard
+```
+
+<div align="center">
+<a href="https://github.com/Niranjjith/Smart-Wayanad">
+<img src="https://img.shields.io/badge/↗%20EXPLORE%20PROJECT-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</div>
+
+</details>
+
+</td>
+
+<td width="50%" valign="top">
+
+<details>
+<summary>🛡️ <strong>ML MALWARE TRIAGE</strong> · <code>CYBERSECURITY • ML • DEFENSIVE</code></summary>
+
+<div align="center">
+
+### 🛡️ ML-Assisted Malware Triage
+
+**Machine-assisted malware triage**
+
+`Python` `Machine Learning` `Cybersecurity`
+
+</div>
+
+**The idea**
+
+Explore how machine learning can assist analysts in prioritizing and inspecting suspicious files during an initial defensive triage workflow.
+
+**Core focus**
+
+`Feature Extraction` · `Classification` · `Automated Analysis` · `Malware Triage` · `Security Research`
+
+**Pipeline**
 
 ```text
 Suspicious File
@@ -261,135 +229,115 @@ Feature Extraction
       ↓
 ML Analysis
       ↓
-Triage / Classification
+Triage Result
       ↓
 Analyst Review
 ```
 
+<div align="center">
 <a href="https://github.com/Niranjjith/ML-Assisted-Malware-Triage-System">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/↗%20EXPLORE%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 
 </details>
 
-<br>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 <details>
-<summary>🚀 <strong>Nexs-Hub</strong> — Student Startup Ecosystem</summary>
+<summary>🚀 <strong>NEXS-HUB</strong> · <code>STARTUP • WEB • COMMUNITY</code></summary>
+
+<div align="center">
 
 ### 🚀 Nexs-Hub
 
-A student-focused ecosystem built around turning ideas into collaborative projects and moving them toward execution.
-
-**What it focuses on**
-- 💡 Student idea development
-- 🤝 Collaboration
-- 🚀 Startup and project execution
-- 🌐 Web platform development
-- 📈 Turning ideas into working products
-
-**Tech Stack**
+**A student innovation ecosystem**
 
 `JavaScript` `Web Development`
 
-**Concept**
+</div>
+
+**The idea**
+
+Create an ecosystem where students can take an idea beyond brainstorming and move toward collaboration, building and launch.
+
+**Core focus**
+
+`Ideas` · `Collaboration` · `Project Building` · `Student Innovation` · `Execution`
+
+**Journey**
 
 ```text
-Student Idea
-     ↓
-  Discover
-     ↓
- Collaborate
-     ↓
-    Build
-     ↓
-   Launch
+IDEA → DISCOVER → COLLABORATE → BUILD → LAUNCH
 ```
 
+<div align="center">
 <a href="https://github.com/Niranjjith/Nexs-Hub">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/↗%20EXPLORE%20PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
+</div>
 
 </details>
 
-<br>
+</td>
+
+<td width="50%" valign="top">
 
 <details>
-<summary>🎓 <strong>Student Performance Coach</strong> — Data / Education</summary>
+<summary>🎓 <strong>STUDENT PERFORMANCE COACH</strong> · <code>PYTHON • DATA • EDTECH</code></summary>
+
+<div align="center">
 
 ### 🎓 Student Performance Coach
 
-A Python-based project focused on analysing student performance, tracking progress and generating useful insights.
-
-**What it focuses on**
-- 📊 Student performance analysis
-- 🎯 Progress tracking
-- 📈 Data-driven insights
-- 🧠 Learning support
-- 🐍 Python-based development
-
-**Tech Stack**
+**Data-driven student performance support**
 
 `Python` `Data Analysis` `Student Analytics`
 
-**Workflow**
+</div>
+
+**The idea**
+
+Use student data to understand performance, track progress and surface useful insights that can support better decisions.
+
+**Core focus**
+
+`Performance Analysis` · `Progress Tracking` · `Data Insights` · `Learning Support`
+
+**Pipeline**
 
 ```text
-Student Data
-     ↓
-   Analysis
-     ↓
-Performance Signals
-     ↓
-Progress Tracking
-     ↓
- Better Decisions
+Student Data → Analysis → Performance Signals
+                         ↓
+                 Progress Tracking
+                         ↓
+                  Better Decisions
 ```
 
+<div align="center">
 <a href="https://github.com/Niranjjith/Student-Performance-Coach">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/↗%20EXPLORE%20PROJECT-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
+</div>
 
 </details>
 
-</details>
-
-# 🧩 Repository Lab
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-**Experiments • Coursework • Prototypes • Builds**
-
-<br/>
+<br>
 
 <a href="https://github.com/Niranjjith?tab=repositories">
-<img src="https://img.shields.io/badge/ENTER%20THE%20REPOSITORY%20LAB-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VIEW%20ALL%20BUILDS-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
-
-# 🌐 Connect
-
-<div align="center">
-
-<a href="https://github.com/Niranjjith">
-  <img src="https://img.shields.io/badge/GitHub-Niranjjith-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/niranjan-a-r-674799281/">
-  <img src="https://img.shields.io/badge/LinkedIn-Niranjan%20A%20R-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Learn. Build. Break. Fix. Repeat.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:7C3AED,100:00F0FF&height=120&section=footer&animation=twinkling" width="100%"/>
-
-</div>
