@@ -1,6 +1,4 @@
-<!-- ========================= -->
-     PROFILE HEADER
-========================= -->
+
 
 <div align="center">
 
@@ -237,87 +235,6 @@ Explore all repositories and experiments:
 </a>
 
 </div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Niranjjith/Niranjjith/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-# 🎯 2026 Focus
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    2026 BUILD MODE                       │
-├──────────────────────────────────────────────────────────┤
-│  ████████████████████████  Computer Science              │
-│  ██████████████████████    Cybersecurity                 │
-│  ████████████████████      Software Development          │
-│  ██████████████████        AI / Machine Learning         │
-│  ████████████████          Data Structures & Algorithms  │
-│  ██████████████            Research & Projects           │
-└──────────────────────────────────────────────────────────┘
-```
-
-### Objectives
-
-- [ ] Strengthen core Computer Science concepts
-- [ ] Build production-quality projects
-- [ ] Improve DSA and problem-solving ability
-- [ ] Develop practical cybersecurity skills
-- [ ] Explore AI/ML applications
-- [ ] Contribute to open-source projects
-- [ ] Build a stronger technical portfolio
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-`C++` · `Python` · `DSA` · `Cybersecurity` · `Machine Learning` ·
-`Web Development` · `Linux` · `Computer Networks`
-
-</div>
-
----
-
-# 💡 Development Philosophy
-
-> **Don't just learn technologies. Build with them.**
-
-I believe the fastest way to develop real technical ability is to move
-from **theory → implementation → failure → debugging → iteration**.
-
-```text
-              ┌─────────────┐
-              │    LEARN    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    BUILD    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    BREAK    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │   DEBUG     │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │   IMPROVE   │
-              └──────┬──────┘
-                     │
-                     └──────────→ REPEAT
-```
 
 ---
 
